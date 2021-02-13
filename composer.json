@@ -1,0 +1,8 @@
+{
+    "name":"agendamento/consultas",
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"classesCRUD/"
+        }
+    }
+}
